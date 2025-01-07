@@ -1,0 +1,16 @@
+/workspaces/netcore_react_app/Reactivities/Persistence/bin/Debug/net8.0/Persistence.deps.json
+/workspaces/netcore_react_app/Reactivities/Persistence/bin/Debug/net8.0/Persistence.dll
+/workspaces/netcore_react_app/Reactivities/Persistence/bin/Debug/net8.0/Persistence.pdb
+/workspaces/netcore_react_app/Reactivities/Persistence/bin/Debug/net8.0/Domain.dll
+/workspaces/netcore_react_app/Reactivities/Persistence/bin/Debug/net8.0/Domain.pdb
+/workspaces/netcore_react_app/Reactivities/Persistence/obj/Debug/net8.0/Persistence.csproj.AssemblyReference.cache
+/workspaces/netcore_react_app/Reactivities/Persistence/obj/Debug/net8.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/netcore_react_app/Reactivities/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfoInputs.cache
+/workspaces/netcore_react_app/Reactivities/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfo.cs
+/workspaces/netcore_react_app/Reactivities/Persistence/obj/Debug/net8.0/Persistence.csproj.CoreCompileInputs.cache
+/workspaces/netcore_react_app/Reactivities/Persistence/obj/Debug/net8.0/Persistence.sourcelink.json
+/workspaces/netcore_react_app/Reactivities/Persistence/obj/Debug/net8.0/Persiste.61C28332.Up2Date
+/workspaces/netcore_react_app/Reactivities/Persistence/obj/Debug/net8.0/Persistence.dll
+/workspaces/netcore_react_app/Reactivities/Persistence/obj/Debug/net8.0/refint/Persistence.dll
+/workspaces/netcore_react_app/Reactivities/Persistence/obj/Debug/net8.0/Persistence.pdb
+/workspaces/netcore_react_app/Reactivities/Persistence/obj/Debug/net8.0/ref/Persistence.dll

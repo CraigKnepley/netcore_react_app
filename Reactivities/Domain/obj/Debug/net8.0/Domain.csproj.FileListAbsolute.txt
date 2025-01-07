@@ -1,0 +1,12 @@
+/workspaces/netcore_react_app/Reactivities/Domain/bin/Debug/net8.0/Domain.deps.json
+/workspaces/netcore_react_app/Reactivities/Domain/bin/Debug/net8.0/Domain.dll
+/workspaces/netcore_react_app/Reactivities/Domain/bin/Debug/net8.0/Domain.pdb
+/workspaces/netcore_react_app/Reactivities/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/netcore_react_app/Reactivities/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/workspaces/netcore_react_app/Reactivities/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/workspaces/netcore_react_app/Reactivities/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/workspaces/netcore_react_app/Reactivities/Domain/obj/Debug/net8.0/Domain.sourcelink.json
+/workspaces/netcore_react_app/Reactivities/Domain/obj/Debug/net8.0/Domain.dll
+/workspaces/netcore_react_app/Reactivities/Domain/obj/Debug/net8.0/refint/Domain.dll
+/workspaces/netcore_react_app/Reactivities/Domain/obj/Debug/net8.0/Domain.pdb
+/workspaces/netcore_react_app/Reactivities/Domain/obj/Debug/net8.0/ref/Domain.dll
